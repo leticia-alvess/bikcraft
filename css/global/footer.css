@@ -30,7 +30,7 @@
   margin-bottom: 16px;
 }
 
-.footer-redes {
+.footer-redes a {
   display: flex;
   gap: 32px;
 }
