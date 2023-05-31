@@ -26,6 +26,12 @@ function ativarProduto(parametro) {
 
 parametros.forEach(ativarProduto);
 
+//botão de alerta
+
+function enviado() {
+  alert("Enviado!");
+}
+
 //Perguntas frequentes
 
 const perguntas = document.querySelectorAll(".perguntas button");
